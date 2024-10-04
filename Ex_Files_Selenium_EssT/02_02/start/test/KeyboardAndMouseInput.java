@@ -7,7 +7,7 @@ public class KeyboardAndMouseInput {
     public static void main(String[] args) throws InterruptedException {
 
         // System.setProperty("webdriver.chrome.driver",
-        //         "D:\\Opt\\selenium-java-4.25.0");
+        //         "C:\\Opt\\selenium-java-4.25.0");
 
         WebDriver driver = new ChromeDriver();
 

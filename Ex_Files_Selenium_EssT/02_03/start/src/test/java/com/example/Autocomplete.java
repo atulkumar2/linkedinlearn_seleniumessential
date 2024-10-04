@@ -8,7 +8,7 @@ public class Autocomplete {
     @Test
 public void mainTest() {
 
-        System.setProperty("webdriver.chrome.driver", "D:\\Opt\\chromedriver-win64\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "C:\\Opt\\chromedriver-win64\\chromedriver.exe");
 
         WebDriver driver = new ChromeDriver();
 

@@ -6,7 +6,7 @@ import org.openqa.selenium.WebElement;
 public class KeyboardAndMouseInput {
     public static void main(String[] args) throws InterruptedException {
 
-        // System.setProperty("webdriver.chrome.driver", "D:\\Opt\\chromedriver-win64\\chromedriver.exe");
+        // System.setProperty("webdriver.chrome.driver", "C:\\Opt\\chromedriver-win64\\chromedriver.exe");
 
         WebDriver driver = new ChromeDriver();
 

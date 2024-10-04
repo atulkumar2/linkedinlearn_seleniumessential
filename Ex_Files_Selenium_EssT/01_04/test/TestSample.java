@@ -10,7 +10,7 @@ public class TestSample {
         // Set the property for webdriver.chrome.driver to be the location to your local
         // download of chromedriver
         System.setProperty("webdriver.edge.driver",
-                "D:\\Opt\\selenium-java-4.25.0\\selenium-edge-driver-4.25.0.jar");
+                "C:\\Opt\\selenium-java-4.25.0\\selenium-edge-driver-4.25.0.jar");
 
         // Create new instance of ChromeDriver
         WebDriver driver = new EdgeDriver();
